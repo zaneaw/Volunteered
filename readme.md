@@ -28,12 +28,6 @@ To help yourself get to and from your bunk every day, write a function called an
 -------------------------
 ```
 
-## Languages
-===========
-
-To provide a Python solution, edit solution.py
-To provide a Java solution, edit solution.java
-
 ## Test cases
 ==========
 
