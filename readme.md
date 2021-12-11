@@ -1,5 +1,4 @@
 # Don't Get Volunteered!
-==============================
 
 _Please note that this is part of Google's Foo.bar Challenge and you should not copy my code. Please only use it as a reference point. Thank you_
 
